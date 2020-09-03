@@ -1,5 +1,7 @@
-#TV, Halftime Shows, and the Big Game
+TV, Halftime Shows, and the Big Game
+
 Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
+
 In this guided project, I utilized Python to answer questions:
 - What are the most extreme game outcomes?
 - How does the game affect television veiwership?
